@@ -1,0 +1,11 @@
+name: Kit
+version: ${project.version}
+main: de.lukas.kit.Main
+authors: [Lw_Lukas]
+description: Kit command
+
+commands:
+
+  kit:
+
+  status:
